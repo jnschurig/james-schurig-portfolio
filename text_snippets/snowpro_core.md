@@ -1,0 +1,1 @@
+In June 2022 I studied for and obtained my [Snowpro Core](https://learn.snowflake.com/en/certifications/snowpro-core/) certification! Check out my [official credentials](https://www.credly.com/badges/feeef908-ef3c-4219-bc87-b4a8df424d70/public_url). 
