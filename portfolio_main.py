@@ -9,7 +9,7 @@ import personal, professional, projects
 def go():
     intro_col, picture_col = st.columns([3, 2])
 
-    intro_tab, professional_tab, projects_tab, personal_tab = st.tabs(['Introduction', 'Personal', 'Professional', 'Projects'])
+    intro_tab, professional_tab, projects_tab, personal_tab = st.tabs(['Introduction', 'Professional', 'Projects', 'Personal'])
 
     with intro_col:
         st.markdown('### Hello!')
