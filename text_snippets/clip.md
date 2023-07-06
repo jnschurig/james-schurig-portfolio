@@ -20,8 +20,8 @@ With CI/CD in place, I built a Kimball-style data warehouse and used this system
 data objects to a three-tiered environment; development, test, and production.
 
 With a data warehouse created, we struggled with adoption. Those who had been migrated to 
-Snowflake using the legacy data structures, didn't really want to learn a new model. As 
-such, we created a training and mentoring program at Clip in which we would invite data 
-analysts from across the company and teach them how to use the new systems and how to 
+Snowflake had been using the legacy data structures struggled with learning to use a new 
+model. As such, we created a training and mentoring program at Clip in which we would invite 
+data analysts from across the company and teach them how to use the new systems and how to 
 solve some of their problems using the new data models. We also used this method to help 
 onboard members of the company when we adopted new visualization tools.

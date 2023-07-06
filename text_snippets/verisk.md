@@ -1,14 +1,10 @@
-I took a job at Xactware, recently been purchased by Verisk, doing technical support while 
-I was studying in college. After some time there, I moved on to Service Quality Analysis, 
-where I would listen to phone calls, read chat logs, grade them according to predetermined 
-standards, give coachings to technicians, and generally try to help keep service quality 
-high for support. I also started doing some reporting on most common issues and statistics 
-related to this. This report was called the "Top 10" and featured our most common issues 
-we saw in support. This was my first exposure to data and reporting. After a time, I 
-applied for a testing role for a new thing called "Business Intelligence". I learned SQL on 
-the job and started to get a hang for thinking in "sets". After being in QA for some time, I 
-showed aptitude for development and was accepted as a Business Intelligence developer in 
-July 2014.
+To help pay for college, I accepted a technical support job at a company called Xactware, 
+which had recently been purchased by Xactware. Little did I know that it would shape the 
+future of my career. Keeping an eye on internal opportunities, I worked and rose through 
+the ranks, until I eventually applied for and was accepted as a quality assurance 
+analyst for a new thing called "Business Intelligence". I learned SQL on the job and 
+started to get a hang for thinking in "sets". After being in QA for a few years, I showed 
+aptitude for development and was accepted as a Business Intelligence developer in July 2014.
 
 As a junior developer, I learned from other talented developers and really grew into a 
 professional. Being given the responsibility to maintain nightly load processes, I started to 
