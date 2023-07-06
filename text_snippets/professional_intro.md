@@ -1,4 +1,4 @@
-In my career I have helped multiple companies migrate to Snowflake and obtain stability on such. I have 
+In my career I have helped multiple companies migrate to Snowflake and obtain stability thereon. I have 
 worked with Snowflake at all levels and can do virtually all tasks from account- and organization-level 
 administration to detail-level development tasks such as optimizing query performance and building and 
 debugging ingestion processes. As a huge fan of Snowflake, I have built some amazing data structures and 
