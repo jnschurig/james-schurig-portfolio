@@ -1,9 +1,9 @@
 To help pay for college, I accepted a technical support job at a company called Xactware, 
-which had recently been purchased by Xactware. Little did I know that it would shape the 
+which had recently been acquired by Verisk. Little did I know that it would shape the 
 future of my career. Keeping an eye on internal opportunities, I worked and rose through 
 the ranks, until I eventually applied for and was accepted as a quality assurance 
 analyst for a new thing called "Business Intelligence". I learned SQL on the job and 
-started to get a hang for thinking in "sets". After being in QA for a few years, I showed 
+started learning to think in terms of "sets". After being in QA for a few years, I showed 
 aptitude for development and was accepted as a Business Intelligence developer in July 2014.
 
 As a junior developer, I learned from other talented developers and really grew into a 
