@@ -47,6 +47,14 @@ def go():
     st.markdown(gen.import_md_text('projects_intro.md'))
 
     show_project(
+        project_name='Enkibot Prime ST',
+        status_val='0.2.2 Available. In Active Development',
+        markdown_file='enkibot.md',
+        image_file='enkibot_example.png',
+        image_caption='Enkibot Hint Generator'
+    )
+
+    show_project(
         project_name='Snowflake Assistant',
         status_val='1.0 Complete',
         markdown_file='snowflake_assistant.md',
